@@ -28,15 +28,6 @@ To run this music player on your local machine, you need to have Python installe
 
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/python-music-player.git
-cd python-music-player
-Install Dependencies:
-
-Copy code
-pip install pygame
-Run the Application:
 
 Copy code
 python music_player.py
