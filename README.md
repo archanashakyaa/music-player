@@ -1,4 +1,5 @@
 Python Music Player Application 🎵
+
 Welcome to my Python Music Player application! This project is a simple yet functional music player built using Python, Tkinter for the graphical user interface (GUI), and Pygame for audio playback.
 
 Features
